@@ -1,0 +1,3 @@
+ --> cuadratico_pkg
+cuadratico/cuadratico/Discrete FIR Filter --> Discrete_FIR_Filter
+cuadratico/cuadratico --> cuadratico
